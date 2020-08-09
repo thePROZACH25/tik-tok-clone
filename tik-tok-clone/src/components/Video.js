@@ -23,7 +23,7 @@ function Video() {
         loop
         onClick={onVideoPress}
         ref={videoRef}
-        src="https://v16m.tiktokcdn.com/f2221faf4ba02f411b4f9795a8886370/5f32c9fe/video/tos/useast2a/tos-useast2a-ve-0068c003/350272427b154725897e4085847f6347/?a=1233&amp;br=5016&amp;bt=2508&amp;cr=0&amp;cs=0&amp;dr=0&amp;ds=3&amp;er=&amp;l=202008091640290101902090843F22C872&amp;lr=tiktok_m&amp;mime_type=video_mp4&amp;qs=0&amp;rc=am40eTRyOm51dTMzOzczM0ApNDloaTM2NTw0N2U6NjU0ZmdqZTUvbDAvczNfLS01MTZzcy5gYzU0Xi9fMTRhMF8wMjE6Yw%3D%3D&amp;vl=&amp;vr="
+        src="https://v16m.tiktokcdn.com/6f0775043c50179ef2ca9722ecd5928c/5f330917/video/tos/useast2a/tos-useast2a-ve-0068c004/0831670ad54b44309d85ffff4612188d/?a=1233&br=2580&bt=1290&cr=0&cs=0&dr=0&ds=3&er=&l=202008092109420101902192230746630E&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=am9mdzc5dWlkdjMzNjczM0ApaTRlZWc4ODxnNztpaDY0Z2czX19wcGVrbjVfLS0xMTZzc2JiLTZhNS4uXy80YDZiMjM6Yw%3D%3D&vl=&vr="
       ></video>
       <VideoFooter />
     </div>
