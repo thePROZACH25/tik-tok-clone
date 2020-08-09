@@ -1,5 +1,6 @@
 import React, { useRef, useState } from "react";
 import VideoFooter from "./VideoFooter";
+import VideoSidebar from "./VideoSidebar"
 import "./Video.css";
 
 function Video() {
@@ -30,6 +31,7 @@ function Video() {
         description="YOOOO!!! What it do!!"
         song="Slob on my nob - Three 6 Mafia"
       />
+      <VideoSidebar/>
     </div>
   );
 }
