@@ -31,7 +31,7 @@ function Video() {
         description="YOOOO!!! What it do!!"
         song="Slob on my nob - Three 6 Mafia"
       />
-      <VideoSidebar/>
+      <VideoSidebar likes={111} messages={222} shares={333}/>
     </div>
   );
 }
