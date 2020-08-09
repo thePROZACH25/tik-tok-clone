@@ -4,3 +4,8 @@
     right: 10px;
     color: white;
 }
+
+.videoSidebar__button{
+    padding: 8px;
+    text-align: center;
+}
