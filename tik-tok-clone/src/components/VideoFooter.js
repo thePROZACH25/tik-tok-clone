@@ -22,7 +22,7 @@ function VideoFooter({channel, description, song}) {
       </div>
       <img
         className="videoFooter__record"
-        src="https://icon2.cleanpng.com/20180401/bhw/kisspng-phonograph-record-lp-record-vinyl-5ac18ac667b354.6841003715226334144248.jpg"
+        src="https://static.thenounproject.com/png/934821-200.png"
       />
     </div>
   );
